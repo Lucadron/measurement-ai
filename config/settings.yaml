@@ -1,0 +1,3 @@
+# Mode: auto or manual
+mode: auto
+threshold_mm: 3

@@ -1,0 +1,27 @@
+1 Gerçek zamanlı video analizi
+ Kamera akışından sürekli ölçüm yapılabilir.
+ cv2.VideoCapture ile canlı bant görüntüsünü analiz et.
+ Uyarılar anlık gösterilsin.
+
+2 Test verisi üretme sistemi
+ Simüle edilmiş hatalı görüntüler üret.
+ Eğitim verisi olarak kullanılabilecek varyasyonlar oluştur.
+
+3 Otomatik test sistemi (unit test)
+ Ölçüm fonksiyonları için test dosyaları yaz.
+
+4 Raspberry Pi gibi gömülü sistemlerle gerçek donanımda çalıştırılabilir.
+
+5 Donanıma geliştirmesi
+ Kamera bağlantısı yapılınca bant otomatik olarak çalışmaya başlasın.
+
+ Fiziksel düzeltme sistemiyle entegre edilebilir (örneğin servo motor tetikleme).
+
+ Sensör destekli optik, mesafe ölçer gibi veri entegrasyonu yapılabilir.
+
+6 Kullanıcı ve Operatör için Ekstra Özellikler
+ Raporlama: Log için PDF/Excel çıktısı alınabilir hale getirme
+
+ Kullanıcı yetkilendirme: Admin/operator arayüzü ayrımı.
+
+ Sesli veya görsel uyarı sistemi: Sapma çok yüksekse sesli ikaz çalma.
