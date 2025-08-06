@@ -4,8 +4,10 @@
 ---
 
 ## 📌 Proje Hakkında
+🔗 [English Version of README](README.en.md)
 
 **Measurement-AI**, üretim bantlarında akan yapışkanlı koruma bantlarının konumunu ölçmek, merkezden sapmalarını belirlemek ve eğiklik durumunu tespit etmek için geliştirilen bir masaüstü uygulamasıdır. Uygulama Python diliyle yazılmış olup PyQt5, OpenCV ve Matplotlib gibi kütüphaneler ile desteklenmiştir.
+
 
 ---
 
@@ -18,12 +20,6 @@
 - PDF rapor oluşturma
 - Son 10 ölçümün grafiğini ve geçmişini tablo şeklinde sunma
 - Tüm verileri `.csv` formatında kalıcı olarak saklama
-
----
-
-## 🖥️ Ekran Görüntüsü
-
-![Ekran Görüntüsü](docs/screenshot.png)
 
 ---
 
